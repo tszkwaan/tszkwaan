@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tszkwaan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript & Cypress
 - 📫 How to reach me ?
   1. https://medium.com/@tszz
   2. https://www.linkedin.com/in/tsz-kwan-chong/
